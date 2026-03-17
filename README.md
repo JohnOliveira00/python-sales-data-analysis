@@ -34,7 +34,7 @@ Durante o projeto foram aplicados conceitos importantes de análise de dados:
 
 ---
 
-# 🛠️ Tecnologias Utilizadas
+#  Tecnologias Utilizadas
 
 - **Python**
 - **Pandas** → Manipulação de dados
