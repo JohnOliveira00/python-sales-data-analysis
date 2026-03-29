@@ -42,4 +42,16 @@ Durante o projeto foram aplicados conceitos importantes de análise de dados:
 - **Jupyter Notebook** → Ambiente de análise
 - **Plotly** → Criação de gráficos
 
+# Atraso no pagamento acima de 20 dias: O cliente cancela
+- Recomendação: Se ele atrasar 15 dias, a empresa ativa um sinal vermelho e a partir disso resolvemos imediatamente o problema do cliente.
+<img width="1472" height="621" alt="image" src="https://github.com/user-attachments/assets/3f60a692-3436-4a93-a83b-85a444fb7f50" />
+
+
+
+
+
+
+
+
+
 
