@@ -47,6 +47,12 @@ Durante o projeto foram aplicados conceitos importantes de análise de dados:
 <img width="1472" height="621" alt="image" src="https://github.com/user-attachments/assets/3f60a692-3436-4a93-a83b-85a444fb7f50" />
 
 
+# Análise do CallCenter: + De 4 vezes as pessoas cancelam.
+- Recomendação: se o cliente ligar 3x pro callcenter, alerta vermelho --> a partir disso resolvemos imediatamente o problema do cliente.
+<img width="1466" height="639" alt="image" src="https://github.com/user-attachments/assets/21644d72-34f9-4fa6-99af-9be860c8bb98" />
+
+
+
 
 
 
