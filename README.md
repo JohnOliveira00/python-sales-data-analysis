@@ -51,9 +51,12 @@ Durante o projeto foram aplicados conceitos importantes de análise de dados:
 - Recomendação: se o cliente ligar 3x pro callcenter, alerta vermelho --> a partir disso resolvemos imediatamente o problema do cliente.
 <img width="1466" height="639" alt="image" src="https://github.com/user-attachments/assets/21644d72-34f9-4fa6-99af-9be860c8bb98" />
 
+ # Análise Duração do contrato: Todo mundo do contrato mensal cancelou 
+- Recomendação: dar desconto para o contrato anual para trimestral -> diminuir a taxa de cancelamento.
+<img width="1465" height="644" alt="image" src="https://github.com/user-attachments/assets/b0789e50-decd-49a1-887d-348343d66a73" />
 
 
-
+Por meio da resolução de uma conjuntura de fatores, nossa empresa obtém um melhor resultado.
 
 
 
